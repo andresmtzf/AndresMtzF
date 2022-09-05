@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
-I am a 23 year old computer engineering intern, focused on software and web development.
+I am a 23 year old computer engineering trainee, a passionete and focused on software and web development.
 
 * 🌍  I'm based in CDMX, MX
 * ✉️  You can contact me at [andres\_mf1@live.com.mx](mailto:andres_mf1@live.com.mx)
